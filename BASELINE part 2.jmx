@@ -45567,6 +45567,22 @@ en=scroll&amp;epn.percent_scrolled=90&amp;_et=3256</stringProp>
           <RecordingController guiclass="RecordController" testclass="RecordingController" testname="ADOBE" enabled="true"/>
           <hashTree/>
         </hashTree>
+        <CookieManager guiclass="CookiePanel" testclass="CookieManager" testname="HTTP Cookie Manager" enabled="true">
+          <collectionProp name="CookieManager.cookies">
+            <elementProp name="multipass" elementType="Cookie" testname="multipass">
+              <stringProp name="Cookie.value">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Jlc2VhcmNoLXByZXZpZXcubW9ybmluZ3N0YXIuY29tIiwic3ViIjoibW9ybmluZ3N0YXI6S2VpbGEuTWFydGluZXpAbW9ybmluZ3N0YXIuY29tIiwiaW5zdCI6IjAwMDAwMDAwOk1PUiIsInVzZXJUeXBlIjoiSW50ZXJuYWwiLCJ1c2VySWQiOiIwMDAwLTAwMDAtMDAwMC0wMDAwIiwiZW50aXRsZW1lbnRzIjp7InJlc2VhcmNoX19zZWN1cml0eV9yZXBvcnRzIjp0cnVlLCJyZXNlYXJjaF9fbW9kZWxfcG9ydGZvbGlvcyI6dHJ1ZSwicmVzZWFyY2hfX3BpY2tfbGlzdHMiOnRydWUsInJlc2VhcmNoX19zZWN1cml0aWVzIjoiTk9UIGludmVzdG1lbnRUeXBlIElTIE5VTEwifSwic2NvcGVzIjpbInJlc2VhcmNoIl0sImV4cGlyZXNJbiI6IjM2NWQiLCJsb2dvdXRQYXRoIjoiL2xvZ291dCIsImlhdCI6MTY1OTY1MzY5Nn0._g9jA4uQSyNrGyOLmFFkuirECHStJxv2L-KH4eHPRmI</stringProp>
+              <stringProp name="Cookie.domain">.morningstar.com</stringProp>
+              <stringProp name="Cookie.path">/</stringProp>
+              <boolProp name="Cookie.secure">true</boolProp>
+              <longProp name="Cookie.expires">0</longProp>
+              <boolProp name="Cookie.path_specified">true</boolProp>
+              <boolProp name="Cookie.domain_specified">true</boolProp>
+            </elementProp>
+          </collectionProp>
+          <boolProp name="CookieManager.clearEachIteration">false</boolProp>
+          <boolProp name="CookieManager.controlledByThreadGroup">false</boolProp>
+        </CookieManager>
+        <hashTree/>
       </hashTree>
       <ProxyControl guiclass="ProxyControlGui" testclass="ProxyControl" testname="HTTP(S) Test Script Recorder" enabled="true">
         <stringProp name="ProxyControlGui.port">8888</stringProp>
