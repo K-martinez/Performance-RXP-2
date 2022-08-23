@@ -1,0 +1,19 @@
+Ticker ,Name ,Last Price ,Base Currency ,Change ,Change (%),YTD Total Return (%),1Y Total Return (%),3Y Total Return (%),5Y Total Return (%)
+AMZN,Amazon.com Inc,124.23,USD,-0.40,-0.32,-26.36,-31.28,24.99,138.69
+AAPL,Apple Inc,155.81,USD,0.46,0.30,-13.56,5.32,207.12,317.57
+MSFT,Microsoft Corp,263.03,USD,-1.81,-0.68,-20.88,-5.02,98.68,272.53
+SPOT,Spotify Technology SA,2311.11,MXN,-48.89,-2.07,-54.55,-55.19,-23.94,-
+ADNT,Adient PLC,30.87,USD,-0.13,-0.42,-35.71,-23.77,40.04,-54.07
+BUD,Anheuser-Busch InBev SA/NV ADR,54.39,USD,-0.02,-0.04,-9.22,-17.87,-39.68,-45.33
+TEAM,Atlassian Corporation PLC A,212.74,USD,-1.44,-0.67,-44.13,-20.39,58.80,492.11
+BLCO,Bausch & Lomb Corp,15.82,USD,0.10,0.67,-,-,-,-
+BMWYY,Bayerische Motoren Werke AG ADR,26.41,USD,0.08,0.30,-16.83,-15.33,18.09,-0.47
+CE,Celanese Corp Class A,114.65,USD,0.14,0.12,-30.49,-21.74,15.13,29.62
+REJTX,American Funds 2015 Trgt Date Retire R5,11.86,USD,0.07,0.59,-10.41,-6.86,13.47,25.91
+FBBTX,American Funds 2015 Trgt Date Retire F2,11.75,USD,0.06,0.51,-10.35,-6.87,13.41,25.79
+RFDTX,American Funds 2025 Trgt Date Retire R6,14.21,USD,0.09,0.64,-12.68,-8.71,16.61,32.43
+EWRD,BNPP E MSCI Wld SRI S Sr PAB5%CpdETFCap,-,USD,-,-,-20.31,-10.50,34.25,56.61
+INCO,Columbia India Consumer ETF,52.38,USD,-0.02,-0.04,-2.82,4.19,43.85,30.16
+ETHO,Etho Climate Leadership US ETF,51.24,USD,-0.04,-0.08,-20.79,-14.05,32.07,69.56
+FUSA,Fidelity US Quality Income ETF Acc,9.24,USD,0.10,1.07,-11.14,-1.84,36.29,74.24
+FTEC,Fidelity® MSCI Information Tech ETF,105.70,USD,-0.30,-0.29,-22.49,-11.69,67.29,143.90
