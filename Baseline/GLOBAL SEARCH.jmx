@@ -60,12 +60,14 @@
                     <stringProp name="Argument.name">q</stringProp>
                     <stringProp name="Argument.value">a</stringProp>
                     <stringProp name="Argument.metadata">=</stringProp>
+                    <boolProp name="HTTPArgument.use_equals">true</boolProp>
                   </elementProp>
                   <elementProp name="limit" elementType="HTTPArgument">
                     <boolProp name="HTTPArgument.always_encode">false</boolProp>
                     <stringProp name="Argument.name">limit</stringProp>
                     <stringProp name="Argument.value">7</stringProp>
                     <stringProp name="Argument.metadata">=</stringProp>
+                    <boolProp name="HTTPArgument.use_equals">true</boolProp>
                   </elementProp>
                 </collectionProp>
               </elementProp>
@@ -130,12 +132,14 @@
                     <stringProp name="Argument.name">q</stringProp>
                     <stringProp name="Argument.value">aapl</stringProp>
                     <stringProp name="Argument.metadata">=</stringProp>
+                    <boolProp name="HTTPArgument.use_equals">true</boolProp>
                   </elementProp>
                   <elementProp name="limit" elementType="HTTPArgument">
                     <boolProp name="HTTPArgument.always_encode">false</boolProp>
                     <stringProp name="Argument.name">limit</stringProp>
                     <stringProp name="Argument.value">7</stringProp>
                     <stringProp name="Argument.metadata">=</stringProp>
+                    <boolProp name="HTTPArgument.use_equals">true</boolProp>
                   </elementProp>
                 </collectionProp>
               </elementProp>
@@ -200,6 +204,7 @@
                     <stringProp name="Argument.name">dataPoints</stringProp>
                     <stringProp name="Argument.value">lastPrice,netChange</stringProp>
                     <stringProp name="Argument.metadata">=</stringProp>
+                    <boolProp name="HTTPArgument.use_equals">true</boolProp>
                   </elementProp>
                 </collectionProp>
               </elementProp>
@@ -264,6 +269,7 @@
                     <stringProp name="Argument.name">dataPoints</stringProp>
                     <stringProp name="Argument.value">lastPrice,netChange</stringProp>
                     <stringProp name="Argument.metadata">=</stringProp>
+                    <boolProp name="HTTPArgument.use_equals">true</boolProp>
                   </elementProp>
                 </collectionProp>
               </elementProp>
@@ -328,6 +334,7 @@
                     <stringProp name="Argument.name">dataPoints</stringProp>
                     <stringProp name="Argument.value">lastPrice,netChange</stringProp>
                     <stringProp name="Argument.metadata">=</stringProp>
+                    <boolProp name="HTTPArgument.use_equals">true</boolProp>
                   </elementProp>
                 </collectionProp>
               </elementProp>
@@ -392,6 +399,7 @@
                     <stringProp name="Argument.name">dataPoints</stringProp>
                     <stringProp name="Argument.value">lastPrice,netChange</stringProp>
                     <stringProp name="Argument.metadata">=</stringProp>
+                    <boolProp name="HTTPArgument.use_equals">true</boolProp>
                   </elementProp>
                 </collectionProp>
               </elementProp>
@@ -456,6 +464,7 @@
                     <stringProp name="Argument.name">dataPoints</stringProp>
                     <stringProp name="Argument.value">lastPrice,netChange</stringProp>
                     <stringProp name="Argument.metadata">=</stringProp>
+                    <boolProp name="HTTPArgument.use_equals">true</boolProp>
                   </elementProp>
                 </collectionProp>
               </elementProp>
@@ -520,6 +529,7 @@
                     <stringProp name="Argument.name">dataPoints</stringProp>
                     <stringProp name="Argument.value">lastPrice,netChange</stringProp>
                     <stringProp name="Argument.metadata">=</stringProp>
+                    <boolProp name="HTTPArgument.use_equals">true</boolProp>
                   </elementProp>
                 </collectionProp>
               </elementProp>
@@ -584,6 +594,7 @@
                     <stringProp name="Argument.name">dataPoints</stringProp>
                     <stringProp name="Argument.value">lastPrice,netChange</stringProp>
                     <stringProp name="Argument.metadata">=</stringProp>
+                    <boolProp name="HTTPArgument.use_equals">true</boolProp>
                   </elementProp>
                 </collectionProp>
               </elementProp>
@@ -648,6 +659,7 @@
                     <stringProp name="Argument.name">dataPoints</stringProp>
                     <stringProp name="Argument.value">lastPrice,netChange,percentNetChange,optionExpirationDate</stringProp>
                     <stringProp name="Argument.metadata">=</stringProp>
+                    <boolProp name="HTTPArgument.use_equals">true</boolProp>
                   </elementProp>
                 </collectionProp>
               </elementProp>

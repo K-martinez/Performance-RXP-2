@@ -1,0 +1,1 @@
+/Users/keilamartinez/Documents/apache-jmeter-5.5/bin/jmeter -n -t "TOOLS.jmx" -l TOOLS_RESULTS/"TOOLS RESULTS "$(date +"%Y_%m_%d_%I_%M_%p")_testsLog_RXP_BASELINE.log -e -o TOOLS_RESULTS/$(date +"%Y_%m_%d_%I_%M_%p")_RXPTestPlan

@@ -56944,7 +56944,7 @@ sï¿½ï¿½&#x4;vï¿½H[&#xf;ï¿½,ï¿½S9aï¿½$Ý¼ &#xf;ï¿½ï¿½ï¿½2%ï¿½&#x4;&#x19;~	9ï¿½ï¿½ï
           <stringProp name="filename"></stringProp>
         </ResultCollector>
         <hashTree/>
-        <ResultCollector guiclass="ViewResultsFullVisualizer" testclass="ResultCollector" testname="View Results Tree" enabled="false">
+        <ResultCollector guiclass="ViewResultsFullVisualizer" testclass="ResultCollector" testname="View Results Tree" enabled="true">
           <boolProp name="ResultCollector.error_logging">false</boolProp>
           <objProp>
             <name>saveConfig</name>

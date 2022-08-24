@@ -1,0 +1,1 @@
+/Users/keilamartinez/Documents/apache-jmeter-5.5/bin/jmeter -n -t "SAL PAGES.jmx" -l SAL_PAGES_RESULTS/"SAL PAGES "$(date +"%Y_%m_%d_%I_%M_%p")_testsLog_RXP_BASELINE.log -e -o SAL_PAGES_RESULTS/$(date +"%Y_%m_%d_%I_%M_%p")_RXPTestPlan
