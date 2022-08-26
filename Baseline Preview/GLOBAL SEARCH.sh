@@ -1,0 +1,1 @@
+/Users/keilamartinez/Documents/apache-jmeter-5.5/bin/jmeter -n -t "GLOBAL SEARCH.jmx" -l GLOBAL_SEARCH_RESULTS/"GLOBAL SEARCH "$(date +"%Y_%m_%d_%I_%M_%p")_testsLog_RXP_BASELINE.log -e -o GLOBAL_SEARCH_RESULTS/$(date +"%Y_%m_%d_%I_%M_%p")_RXPTestPlan
